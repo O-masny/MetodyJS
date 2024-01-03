@@ -1,0 +1,5 @@
+//Metoda na scitani dvou cisel
+function scitaniCisel(let a, b){
+return a + b;
+}
+scitaniCisel(3,6);
